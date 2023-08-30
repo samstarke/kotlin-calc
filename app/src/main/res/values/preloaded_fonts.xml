@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akronim</item>
+        <item>@font/bungee</item>
+        <item>@font/dotgothic16</item>
+        <item>@font/fascinate_inline</item>
+        <item>@font/fontdiner_swanky</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/zcool_kuaile</item>
+    </array>
+</resources>
